@@ -159,3 +159,11 @@ input, select {
     text-decoration: line-through;
     font-style: italic;
 }
+
+/* DIREITOS AUTORAIS */
+
+#Eu{
+    text-align: center;
+    color: #FFF;
+    font-weight: bold;
+}
